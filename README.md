@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samnang</h1>
 <h3 align="center">A passionate software engineering and robotics engineering</h3>
 
-<img align="right" style="border-radius:50px;" alt="coding" width=400 src="https://i.pinimg.com/originals/c8/94/f0/c894f05d0a176de552a9683319dedb29.gif">
+<img align="right" style="border-radius:50px;" alt="coding" src="https://i.pinimg.com/originals/c8/94/f0/c894f05d0a176de552a9683319dedb29.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githubusername&label=Profile%20views&color=0e75b6&style=flat" alt="githubusername" /> </p>
 
