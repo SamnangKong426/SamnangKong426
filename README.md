@@ -1,11 +1,12 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif" alt="MasterHead" />
+  <img src="https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif" alt="MasterHead" style="border-radius: 10px;"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Samnang</h1>
 <h3 align="center">A passionate software engineering and robotics engineering</h3>
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/76bd131b4aa3447eb9f9d0887972c066.gif" alt="Coding" width="300" align="right">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/76bd131b4aa3447eb9f9d0887972c066.gif" alt="Coding" width="300" align="right" style="border-radius: 10px;">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githubusername&label=Profile%20views&color=0e75b6&style=flat" alt="githubusername" /> </p>
 
@@ -17,7 +18,7 @@
 
 - 🤝 I’m looking for help with **Autonomous navigation**
 
-- 📫 How to reach me **exmaple@**
+- 📫 How to reach me **samnangkong499@gmail.com**
 
 - 📄 Know about my experiences [resumelink](resumelink)
 
